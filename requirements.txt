@@ -1,0 +1,7 @@
+beautifulsoup4
+joblib
+timidity
+transformers
+tokenizers
+pytorch
+accelerate
